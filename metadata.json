@@ -1,0 +1,6 @@
+{
+  "name": "AUREON AI",
+  "description": "Global Intelligence for Business & Capital — Executive business performance, market structure, risk assessment, and strategic research platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
